@@ -1,3 +1,8 @@
+Preview 
+![image](https://github.com/chaya463/shopping-app/assets/118501998/f0e2561a-a905-4760-bc00-645c50961af0)
+
+
+
 ### To intsall all the required dependecies
 
 ```
